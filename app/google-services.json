@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155063153532",
+    "firebase_url": "https://visionex1-bddc0.firebaseio.com",
+    "project_id": "visionex1-bddc0",
+    "storage_bucket": "visionex1-bddc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155063153532:android:e75fc873436ff9d21beaf9",
+        "android_client_info": {
+          "package_name": "com.example.visionex1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155063153532-3s9ke18q0k5j6nurg3pr8rk2l655pcrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6OrR1WGtYf8xOZmlVnDztmu59gRCfND4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155063153532-3s9ke18q0k5j6nurg3pr8rk2l655pcrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
